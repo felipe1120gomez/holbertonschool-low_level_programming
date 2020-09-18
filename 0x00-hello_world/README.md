@@ -1,37 +1,37 @@
-# Scripts
+# Scripts and Programs
 
-## 0-hello_world
+## 0-preprocessor
 
-is used to print “Hello, World”, followed by a new line to the standard output.
+is used to run a C file through the preprocessor and save the result into another file.
 
-## 1-confused_smiley
+## 1-compiler
 
-is used to display a confused smiley "(Ôo)'.
+is used to compile a C file but does not link.
 
-## 2-hellofile
+## 2-assembler
 
-is used to display the content of the /etc/passwd file.
+is used to generate the assembly code of a C code and save it in an output file.
 
-## 3-twofiles
+## 3-name
 
-is used to display the content of /etc/passwd and /etc/hosts
+is used to compile a C file and creates an executable named cisfun.
 
-## 4-lastlines
+## 4-puts.c
 
-is used to display the last 10 lines of /etc/passwd
+Program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line."
 
-## 5-firstlines
+## 5-printf.c
 
-is used to display the first 10 lines of /etc/passwd
+Program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
 
-## 6-third_line
+## 6-size.c
 
-is used to display the third line of the file iacta.
+Program that prints the size of various types on the computer it is compiled and run on.
 
-## 7-file
+## 100-intel
 
-is used to create a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
+is used to generate the assembly code (Intel syntax) of a C code and save it in an output file.
 
-## 8-cwd_state
+## 101-quote.c
 
-is used to
+Program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error."
