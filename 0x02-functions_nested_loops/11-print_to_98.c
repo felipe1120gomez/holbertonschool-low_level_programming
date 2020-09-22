@@ -3,7 +3,7 @@
 /**
  * print_to_98 - numbers from n to 98 in order
  * @n: first number
- * Return: total
+ * Return: void
  */
 void print_to_98(int n)
 {
