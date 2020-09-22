@@ -2,7 +2,7 @@
 /**
  * _isalpha - check if a character is a letter
  * @c: the character to test
- * Return: 1 if lower case
+ * Return: 1 if c is lowercase, 0 otherwise
  */
 int _isalpha(int c)
 {
