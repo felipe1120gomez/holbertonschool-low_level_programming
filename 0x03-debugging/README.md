@@ -1,17 +1,21 @@
 # Debugging
 
-## 0-positive_or_negative.c
+## holberton.h
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+This file contains all the prototype functions necessary for the programs.
 
-## 1-last_digit.c
+## 0-main.c
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+This program test that the function positive_or_negative() gives the correct output when given a case of 0.
 
-## 2-print_alphabet.c
+## 1-main.c
 
-Program that prints the alphabet in lowercase, followed by a new line.
+This program causing an infinte loop. (fixed)
 
-## 3-print_alphabets.c
+## 2-largest_number.c
 
-Program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+Program that print the largest of three integers.
+
+## 3-print_remaining_days.c
+
+Program that convert a date to the day of year and determines how many days are left in the year, taking leap year into consideration. (needs 3-convert_day.c)
