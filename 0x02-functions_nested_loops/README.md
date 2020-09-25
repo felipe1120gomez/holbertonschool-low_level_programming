@@ -1,57 +1,53 @@
 # Programs
 
-## 0-positive_or_negative.c
+## holberton.h
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+This file contains all the prototype functions necessary for the programs.
 
-## 1-last_digit.c
+## 0-holberton.c
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+This program print Holberton, followed by a new line.
 
-## 2-print_alphabet.c
+## 1-alphabet.c
 
-Program that prints the alphabet in lowercase, followed by a new line.
+This program print the alphabet, in lowercase.
 
-## 3-print_alphabets.c
+## 2-print_alphabet_x10.c
 
-Program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+Program that print 10 times the alphabet, in lowercase.
 
-## 4-print_alphabt.c
+## 3-islower.c
 
-Program that prints the alphabet in lowercase, followed by a new line, prints all the letters except q and e.
+Program that check for lowercase character.
 
-## 5-print_numbers.c
+## 4-isalpha.c
 
-Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Program that check for alphabetic character.
 
-## 6-print_numberz.c
+## 5-sign.c
 
-Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Program that print the sign of a number.
 
-## 7-print_tebahpla.c
+## 6-abs.c
 
-Program that prints the lowercase alphabet in reverse, followed by a new line.
+Program that compute the absolute value of an integer.
 
-## 8-print_base16.c
+## 7-print_last_digit.c
 
-Program that prints all the numbers of base 16 in lowercase, followed by a new line.
+Program that print the last digit of a number.
 
-## 9-print_comb.c
+## 8-24_hours.c
 
-Program that prints all possible combinations of single-digit numbers.
+Program that print every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-## 10-print_comb2.c
+## 9-times_table.c
 
-Program that prints the numbers from 00 to 99.
+Program that print the 9 times table, starting with 0.
 
-## 100-print_comb3.c
+## 10-add.c
 
-Program that prints all possible different combinations of two digits.
+Program that add two integers and returns the result.
 
-## 101-print_comb4.c
+## 11-print_to_98.c
 
-Program that prints all possible different combinations of three digits.
-
-## 102-print_comb5.c
-
-Program that prints all possible combinations of two two-digit numbers.
+Program that print all natural numbers from n to 98, followed by a new line.
