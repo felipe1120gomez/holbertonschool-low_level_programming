@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the alphabet in lowercase
+ * main - prints all the numbers of base 16 in lowercase
  *
  * Description: putchar function
  * Return: zero

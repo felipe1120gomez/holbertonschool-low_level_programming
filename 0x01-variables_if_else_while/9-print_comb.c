@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print all single digit numbers of base 10
+ * main - print all possible combinations of single-digit numbers.
  *
  * Description: putchar function
  * Return: zero
