@@ -1,57 +1,57 @@
 # Programs
 
-## 0-positive_or_negative.c
+## holberton.h
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+This file contains all the prototype functions necessary for the programs.
 
-## 1-last_digit.c
+## 0-isupper.c
 
-This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
+This program check for uppercase character.
 
-## 2-print_alphabet.c
+## 1-isdigit.c
 
-Program that prints the alphabet in lowercase, followed by a new line.
+This program check for a digit (0 through 9).
 
-## 3-print_alphabets.c
+## 2-mul.c
 
-Program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+Program that multiplie two integers.
 
-## 4-print_alphabt.c
+## 3-print_numbers.c
 
-Program that prints the alphabet in lowercase, followed by a new line, prints all the letters except q and e.
+Program that print the numbers, from 0 to 9, followed by a new line.
 
-## 5-print_numbers.c
+## 4-print_most_numbers.c
 
-Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Program that print the numbers, from 0 to 9, followed by a new line, except print 2 and 4.
 
-## 6-print_numberz.c
+## 5-more_numbers.c
 
-Program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Program that print 10 times the numbers, from 0 to 14, followed by a new line.
 
-## 7-print_tebahpla.c
+## 6-print_line.c
 
-Program that prints the lowercase alphabet in reverse, followed by a new line.
+Program that draw a straight line in the terminal.
 
-## 8-print_base16.c
+## 7-print_diagonal.c
 
-Program that prints all the numbers of base 16 in lowercase, followed by a new line.
+Program that draw a diagonal line on the terminal. 
 
-## 9-print_comb.c
+## 8-print_square.c
 
-Program that prints all possible combinations of single-digit numbers.
+Program that print a square, followed by a new line.
 
-## 10-print_comb2.c
+## 9-fizz_buzz.c
 
-Program that prints the numbers from 00 to 99.
+Program that print the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
 
-## 100-print_comb3.c
+## 10-print_triangle.c
 
-Program that prints all possible different combinations of two digits.
+Program that print a triangle, followed by a new line.
 
-## 101-print_comb4.c
+## 100-prime_factor.c
 
-Program that prints all possible different combinations of three digits.
+Program that find and print the largest prime factor of the number 612852475143.
 
-## 102-print_comb5.c
+## 101-print_number.c
 
-Program that prints all possible combinations of two two-digit numbers.
+Program that print an integer.
